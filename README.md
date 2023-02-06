@@ -2,7 +2,7 @@
 
 I'm Nicole but @nickramen is my alter ego whenever I surf the internet🏄
 
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nickramen/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nickramen/)
 
 **Glad to see you here**
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${nickramen}.${nickramen})
