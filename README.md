@@ -15,6 +15,10 @@ I'm Nicole but @nickramen is my alter ego whenever I surf the internet🏄
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${nickramen}.${nickramen})
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickramen=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
 <!--
 **nickramen/nickramen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
