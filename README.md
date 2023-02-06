@@ -2,6 +2,8 @@
 
 I'm Nicole but @nickramen is my alter ego whenever I surf the internet🏄
 
+## About me:
+
 - 🔭 I’m currently working on #100DaysOfCode.
 
 - 🌱 I’m currently learning Python
@@ -10,9 +12,9 @@ I'm Nicole but @nickramen is my alter ego whenever I surf the internet🏄
 
 - You can check out my website at: 
 
-**Link to work:** [nickramen](https://nickramen.com/)
+**Visit my website:** [nickramen](https://nickramen.com/)
 
-
+**Glad to see you here**
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${nickramen}.${nickramen})
 
 
