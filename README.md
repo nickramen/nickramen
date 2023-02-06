@@ -27,6 +27,10 @@ I believe we can all contribute to make the world a better place. As a programme
 **Visit my website:** [nickramen](https://nickramen.com/)
 (You can find my resume there as well as a little blog I am trying to start :D)
 
+**Watch my YouTube Channel:** [nickramen 2.0](https://www.youtube.com/@nickramen2.0)
+(Videos are in Spanish at the moment)
+
+
 
 ### 🧰 Languages and Tools:
 ---
