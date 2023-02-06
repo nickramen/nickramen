@@ -7,8 +7,6 @@ I'm Nicole but @nickramen is my alter ego whenever I surf the internet🏄
 **Glad to see you here**
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${nickramen}.${nickramen})
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fnickramen&label=Vistors&countColor=%23263759)
-
 
 ### 🌟 About me:
 ---
