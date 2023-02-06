@@ -13,7 +13,7 @@ I'm Nicole but @nickramen is my alter ego whenever I surf the internet🏄
 **Link to work:** [nickramen](https://nickramen.com/)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.${your.repo.id})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${nickramen}.${nickramen})
 
 <!--
 **nickramen/nickramen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
