@@ -4,9 +4,6 @@ I'm Nicole but @nickramen is my alter ego whenever I surf the internet🏄
 
 **Connect with me here:** [My World](https://linkyy.co/nickramen)
 
-**Glad to see you here**
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${nickramen}.${nickramen})
-
 
 ### 🌟 About me:
 ---
