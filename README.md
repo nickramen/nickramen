@@ -39,9 +39,6 @@ I believe we can all contribute to make the world a better place. As a programme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>&nbsp;
 </div>
 
-
-### 🔥 My Stats:
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickramen)](https://github.com/nickramen/github-readme-stats)
 
 
